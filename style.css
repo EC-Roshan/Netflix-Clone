@@ -209,7 +209,7 @@ ul{
     color: skyblue;
 }
 .image-4{
-    background-image: url("fourth_image.jpg.jpg");
+    background-image: url("fourth_image.jpg");
     background-size: cover;
     height: 425px;
     width: 580px;
