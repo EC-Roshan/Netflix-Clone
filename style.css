@@ -3,7 +3,7 @@
     padding: 0px;
 }
 .first{
-    background-image: url("first_image.jpeg")  ;
+    background-image: url("first_image.jpg")  ;
     background-size: cover;
     height: 700px;
     width: 1285px;
@@ -126,7 +126,7 @@
     width: 1348px;
 }
 .image-2{
-    background-image: url("second_image.jpeg");
+    background-image: url("second_image.jpg");
     background-size: cover;
     height: 425px;
     width: 580px;
@@ -155,7 +155,7 @@
    text-align: left;
 }
 .image-3{
-    background-image: url("third_image.jpeg");
+    background-image: url("third_image.jpg");
     background-size: cover;
     height: 425px;
     width: 580px;
@@ -209,13 +209,13 @@ ul{
     color: skyblue;
 }
 .image-4{
-    background-image: url("fourth_image.jpeg.jpg");
+    background-image: url("fourth_image.jpg.jpg");
     background-size: cover;
     height: 425px;
     width: 580px;
 }
 .image-5{
-    background-image: url("fifth_image.jpeg");
+    background-image: url("fifth_image.jpg");
     background-size: cover;
     height: 425px;
     width: 580px;
